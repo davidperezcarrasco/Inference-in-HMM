@@ -1,3 +1,5 @@
+# Inference in Hidden Markov Models
+
 This repository offers a comprehensive Jupyter notebook exploring Hidden Markov Models (HMMs) using the pgmpy library. The primary focus is on grasping, implementing, and experimenting with HMMs across various scenarios, such as robot navigation and text correction. 
 
 ## Objectives:
